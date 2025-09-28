@@ -9,7 +9,7 @@ This project provides a simple **Event Booking System** with APIs for creating e
 # Setup Instructions
 
 1. **Clone Repository**
-   git clone https://github.com/JayRameshwar-N
+   git clone https://github.com/JayRameshwar-N/Aqalpi-Assignment.git
    cd Aqalpi-Assignment
 
  - Required packages install 
